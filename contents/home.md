@@ -2,15 +2,15 @@
 
 [![krhinok](https://img.shields.io/badge/krhinok-github-blue?logo=github)](https://github.com/krhinok/)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Bachelor's Degree in Robotics Engineering, at School of Control Science and Engineering, Zhejiang University, China.
 
 #### Email
-suhe_zhang@outlook.com
+suhe_zhang @outlook.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Bachelor's Degree in Robotics Engineering, Zhejiang University, China 2022—2026 (expected).\
+Bachelor's Degree in Industrial Design, Technical University of Madrid(Universidad Politécnica de Madrid), Spain 2024-2025 (Exchange)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Robotics, Teleoperation, Dexterous Robotic Dands, Computer Vision.
 
