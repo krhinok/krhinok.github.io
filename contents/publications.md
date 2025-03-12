@@ -1,0 +1,2 @@
+- Participated in the 18th "Zhongkong Cup" University Student Robot Competition at Zhejiang University, making a mobile robot and operating a robotic arm.
+- Participated in Student Research Training Program (SRTP) on the topic of remote operation of a dexterous hand with a five-finger hand exoskeleton.

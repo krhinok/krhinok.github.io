@@ -14,3 +14,6 @@ Bachelor's Degree in Industrial Design, Technical University of Madrid (Universi
 #### Research Interests
 Robotics, Teleoperation, Dexterous Robotic Hands, Computer Vision.
 
+#### Miscellaneous
+- Interests: football, hiking, cycling, chess.
+- Languages: Chinese, English, Spanish
