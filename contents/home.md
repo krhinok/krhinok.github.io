@@ -5,7 +5,7 @@
 He is currently pursuing a Bachelor's Degree in Robotics Engineering, at School of Control Science and Engineering, Zhejiang University, China.
 
 #### Email
-suhe_zhang@outlook.com
+`suhe_zhang@outlook.com`
 
 #### Education
 Bachelor's Degree in Robotics Engineering, Zhejiang University, China, 2022-2026 (Expected).\
