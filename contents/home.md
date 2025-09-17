@@ -12,7 +12,7 @@ Bachelor's Degree in Robotics Engineering, Zhejiang University, China, 2022-2026
 Bachelor's Degree in Industrial Design, Technical University of Madrid (Universidad Politécnica de Madrid), Spain, 2024-2025 (Exchange)
 
 #### Research Interests
-Robotics, Teleoperation, Dexterous Robotic Hands, Computer Vision.
+Robotics, Teleoperation, Manipulation, Safety, Dexterous Robotic Hands.
 
 #### Miscellaneous
 - Interests: football, hiking, cycling, chess.
