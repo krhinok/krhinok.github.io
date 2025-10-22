@@ -2,5 +2,5 @@
 - Participated in Student Research Training Program (SRTP) on the topic of remote operation of a dexterous hand with a five-finger hand exoskeleton.
 - Summer internship at University of California, Riverside, Supervised by Prof. Jiachen Li. Led a project: SATeMoMa: A Safe Assistive Teleoperation System for Mobile Manipulation
 
-![alt text](allegro.gif)
-![alt text](allegro2.gif)
+![alt text](static/assets/img/allegro.gif)
+![alt text](static/assets/img/allegro2.gif)
